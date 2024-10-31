@@ -60,4 +60,4 @@ $python(3) generate.py data/structureX.txt data/wordsX.txt [output_image_filenam
 
 
 ## Demo Video:
-Check out a [demo video](https://drive.google.com/file/d/14lhgdW1Nfqcc3N3MKdeFUBcXElHv09i9/view?usp=sharing) to see the Crossword AI in action!
+Check out a [demo video](https://drive.google.com/file/d/1F14m-sf8OuZBDB4rDADZP9QrZ7Dpm9QC/view?usp=sharing) to see the Crossword AI in action!
